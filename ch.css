@@ -1,7 +1,20 @@
+body {
+    background-color: rgb(243, 238, 232);
+}
 .he {
     background-color: rgba(209, 185, 141, 0.4);
     padding: 20px;
 }
+
+
+.fig {
+    text-align: center;
+    margin: 0px 400px;
+}
+
+/* .figtwo {
+    text-align: center;
+} */
 
 .n {
     color: rgba(48, 40, 16, 0.966);
@@ -16,7 +29,7 @@
 .d {
     /* margin: 5px -20px; */
   padding: 5px;
-  border: 2px solid rgba(209, 185, 141, 0.4);
+  border: 0px solid rgba(209, 185, 141, 0.4);
 }
 
 .one {
@@ -25,4 +38,18 @@
 
 .two {
     font-weight: bold;
+    margin: 4px;
+    text-align: center;
+}
+
+.para {
+    font-size: 20px;
+    margin: 10px;
+    font-weight: 100px;
+}
+
+.film {
+    
+    margin: 10px;
+    color: black;
 }
